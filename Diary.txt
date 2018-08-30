@@ -1,0 +1,11 @@
+9:35 20.08.2018
+141 C:\Users\јлексей\Desktop\работа\GITHUB\calculatorProbabilistic
+веро€тностный калькул€тор
+
+CREATE TABLE expressionWords (expression char(100) character set cp1251, id smallint NOT NULL AUTO_INCREMENT, d1 char(32), d2 char(32),  UNIQUE(id));
+10:00 21.08.2018
+https://learn.javascript.ru/constructor-new
+
+13:37 24.08.2018
+
+
